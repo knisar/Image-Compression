@@ -12,7 +12,7 @@ git clone https://https://github.com/knisar/Image-Compression.git
 To run this on your own image just add your image to that directory and change the name of image file in the parameters passed by Main.m file Or you can give the path to your image file in Main.m file.
 
 
-# Example Output
+# Sample Output
 <table>
 <tr>
 <td>
