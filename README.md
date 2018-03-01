@@ -10,3 +10,11 @@ git clone https://https://github.com/knisar/Image-Compression.git
 * Then copy these files over to your MATLAB root folder
 * Open Main.m and run it
 To run this on your own image just add your image to that directory and change the name of image file in the parameters passed by Main.m file Or you can give the path to your image file in Main.m file.
+
+
+# Example Output
+<table>
+<tr>
+<td>
+<img src="https://github.com/knisar/Image-Compression/blob/master/Tower_Bridge_After_Compression.jpg">
+</td>
